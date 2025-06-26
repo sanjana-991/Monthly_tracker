@@ -55,6 +55,8 @@ As a first-year engineering student, this project taught me:
 
 ---
 
+[Watch demo video](https://drive.google.com/file/d/16CQVCJYQjgqkkt_lhWpNt-1lkyL__sNs/view?usp=drivesdk)
+
 ## 🔗 Connect
 
 Created with ❤️ by **Sanjana Biyani**  
